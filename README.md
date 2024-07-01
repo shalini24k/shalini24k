@@ -26,7 +26,7 @@
 - LinkedIn: 
 
 ⚡ Fun fact:
-- worked as support staff for my brother start up at 16
+- worked as support staff for my brother start up at 18
 - 
 ### 👨‍💻 Programming Languages
 - Python
